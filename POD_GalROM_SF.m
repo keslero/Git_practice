@@ -23,6 +23,7 @@ clear
 %       c [t,n] (temporal coefficients)
 % ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
 clc
+fprintf('new features')
 
 %% INPUT PARAMETERS -- MUST BE INSERTED!!!
 % 
